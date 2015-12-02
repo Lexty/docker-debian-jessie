@@ -1,3 +1,3 @@
 # docker-debian-jessie
 
-[https://hub.docker.com/r/lexty/debian/](lexty/debian:jessie)
+[lexty/debian:jessie](https://hub.docker.com/r/lexty/debian/)
